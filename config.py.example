@@ -1,0 +1,2 @@
+IMAGE_DIR = "/path/to/dataset/train/images"
+ANNOTATION_DIR = "/path/to/dataset/train/annotations"

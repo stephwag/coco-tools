@@ -1,0 +1,14 @@
+{
+    "info": {
+        "description": "coco-tools",
+        "url": "https://github.com/stephwag/coco-tools",
+        "version": "1.0",
+        "year": 2019,
+        "contributor": "Stephanie Wagner",
+        "date_created": "2019-01-26"
+    },
+    "licenses": [],
+    "images": [],
+    "annotations": [],
+    "categories": []
+}
